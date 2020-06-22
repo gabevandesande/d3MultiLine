@@ -1,0 +1,11 @@
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+h1{
+    text-align: center;
+    color:black;
+    font-family:sans-serif;
+}
